@@ -24,7 +24,7 @@ A clean and responsive resume webpage built using **HTML** and **CSS**. This pro
 
 ## 🌐 Live Preview
 
-Coming soon... (or add link if deployed)
+https://sanjanapriyadarshiniresume.netlify.app/
 
 ## 🛠️ Tech Stack
 
@@ -32,16 +32,11 @@ Coming soon... (or add link if deployed)
 - CSS3
 - Flexbox layout
 
-## 📸 Screenshot
-
-*(Optional: Insert screenshot of your webpage here)*
-
 ## 🧑‍💻 Author
 
 **Kattamuri Sanjana Priya Darshini**
 
 - [GitHub](https://github.com/sanjana71006)
-- [LinkedIn](#) *(Add your actual profile link)*
 
 ## 📃 License
 
